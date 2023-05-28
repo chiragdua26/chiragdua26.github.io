@@ -1,6 +1,10 @@
 # CHIRAG DUA
 Experienced software engineer | Proven track record | Java, Python, C++ | Strong problem-solving | Scalable systems, cloud | Collaborative communicator | Passionate learner
 
+<div align="center">
+  <img src="https://example.com/photo.jpg" alt="Chirag Dua" width="200px" height="200px">
+</div>
+
 ## EXPERIENCE
 **Safari tech, Italy — Software development engineer**
 JUN 2022 - MAY 2023
