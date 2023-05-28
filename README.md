@@ -21,15 +21,8 @@ Four years of immersive learning and personal growth, expanding my expertise and
 - Cloud computing For AI/ML, Vellore Institute of Technology
 
 ## PROJECTS
-**PQ-Encrypter - August 2022**
-- A web app to test out post quantum encryption algorithms.
-- Currently having 'SIDH', 'Kyber', 'Dilithium', and 'Falcon'.
-- Uses Next.js and Tailwind.
 
-**Chirping - September 2022**
-- A full-stack twitter clone with authentication.
-- Users are allowed to post 'Chirps' where other users can downvote, upvote, or comment on the Chirp.
-- Uses MERN stack along with Tailwind CSS.
+
 
 **Feedy - June 2021**
 - An Android food donation app using Flutter.
