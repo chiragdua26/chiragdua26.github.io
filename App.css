@@ -1,0 +1,11 @@
+/* Add global styles for your website */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Add styling for navigation links */
+.nav-link {
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
